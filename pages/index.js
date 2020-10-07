@@ -1,6 +1,6 @@
 import { Component } from 'react';
 
-class Index extends Component {
+class Home extends Component {
     render() {
         return (<div>
             <h3 className="text-5xl text-green-500">Hello World</h3>
@@ -8,4 +8,4 @@ class Index extends Component {
     }
 }
 
-export default Index;
+export default Home;
